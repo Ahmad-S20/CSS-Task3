@@ -1,0 +1,32 @@
+.Begin-End{
+    text-align: center;
+    background-color:rgb(221, 157, 79) ;
+}
+.Mid{
+    text-align: center;
+    background-color:bisque;
+}
+
+h3{
+    color: darkblue;
+    
+}
+
+.main
+{
+   background-color:rgb(221, 157, 79) ;
+}
+
+body{
+    background-color:bisque;
+}
+
+.forfloat
+{
+    float: left;
+    width: 33%;
+}
+
+.clearfix{
+    clear: left;
+}
