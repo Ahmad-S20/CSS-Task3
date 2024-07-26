@@ -35,7 +35,7 @@ body{
 }
 .first-b{
     margin:10px;
-    padding-right: 40px;
+    padding: 3px 30px;
     border-radius: 10px;
     background-color: rgb(55, 55, 227);
     color: white;
